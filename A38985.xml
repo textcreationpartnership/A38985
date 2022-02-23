@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding good newes from the Jsle of VVight being a true relation of a great quantity of ammunition, viz. 1500 muskets many loades of bullets, and great store of powder lately taken there from a ship which was going to the rebels in Ireland : wherein also was much bees-waze, to make tapers for the priests and fryers : with a discoverie of another great plot neere Mayden-head in Berkeshire : all which was discovered to the House of Commons on Saturday, Feb. 11, 1641 : whereunto is added the relation of a prodigious birth, borne neere Fullers Rents in Holborne, Ian. 30, 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38985</idno>
+            <idno type="STC">Wing E3739</idno>
+            <idno type="STC">ESTC R18880</idno>
+            <idno type="EEBO-CITATION">12603255</idno>
+            <idno type="OCLC">ocm 12603255</idno>
+            <idno type="VID">64223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64223)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 250:E135, no 2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding good newes from the Jsle of VVight being a true relation of a great quantity of ammunition, viz. 1500 muskets many loades of bullets, and great store of powder lately taken there from a ship which was going to the rebels in Ireland : wherein also was much bees-waze, to make tapers for the priests and fryers : with a discoverie of another great plot neere Mayden-head in Berkeshire : all which was discovered to the House of Commons on Saturday, Feb. 11, 1641 : whereunto is added the relation of a prodigious birth, borne neere Fullers Rents in Holborne, Ian. 30, 1641.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Isle of Wight (England) --  History.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64223:1"/>
+            <pb facs="tcp:64223:1" rendition="simple:additions"/>
+            <p>Exceeding good Newes FROM THE JSLE OF VVIGHT.</p>
+            <p>Being a true Relation of a great quan<g ref="char:EOLhyphen"/>tity of Ammunition, <hi>viz.</hi> 1500 Muskets ma<g ref="char:EOLhyphen"/>ny Loades of Bullets, and great ſtore of Pow<g ref="char:EOLhyphen"/>der lately taken there from a Ship which was going to the Rebels in <hi>IRELAND.</hi>
+            </p>
+            <p>Wherein alſo was much Bees-waxe, to make Tapers for the Prieſts and Fryers.</p>
+            <p>With a Diſcoverie of another great Plot neere <hi>Mayden-head</hi> in <hi>Barkeſhire.</hi>
+            </p>
+            <p>All which was diſcovered to the Houſe of Com<g ref="char:EOLhyphen"/>mons on Saturday, <hi>Febr.</hi> 11. 1641.</p>
+            <p>Whereunto is added the Relation of a Prodigious Birth, borne neere <hi>Fullers Rents</hi> in <hi>Holborne, Ian.</hi> 30. 1641.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64223:2"/>
+            <pb n="1" facs="tcp:64223:2"/>
+            <head>EXCEEDING Good NEWES from the Iſle of <hi>WJGHT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Bout eight or ten dayes ſince, a Ship laden fully with great quantities of Shot, about 1500 Muſ<g ref="char:EOLhyphen"/>kets, many loads of Bul<g ref="char:EOLhyphen"/>lets, Powder, and other Engines for Warre, com<g ref="char:EOLhyphen"/>ming from <hi>Dunkirke</hi> (as is ſuppoſed) and bound for our Enemies the Rebels in <hi>Ireland,</hi> was forced by extremity of weather into a Harbour in the Iſle of <hi>Wight,</hi> where bei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g commanded by one of the Caſtles, there <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e was ſtay'd till further examination <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow to diſpoſe of thoſe goods aboard, wherefore preſently by advice of the Governours of the Iſle, Letters were ſent immediately to <hi>Lon<g ref="char:EOLhyphen"/>don</hi>
+               <pb n="2" facs="tcp:64223:3"/>to the Honourable Houſe of Parliament to whom on Satturday laſt a Packet was de<g ref="char:EOLhyphen"/>livered, and the meſſenger received with great courteſie, with deſire of ſtay till the Hono<g ref="char:EOLhyphen"/>rable Houſes of Parliament, ſhall debate of the matter, and fully diſpoſe of that Buſines, the ſaid Meſſenger did farther notifie that there was divers other parcels of Ammuniti<g ref="char:EOLhyphen"/>on, Powder, and ſhot, found out in a great Ware-houſe there, all which are alſo ſtayd, till full direction be given to diſpoſe of them.</p>
+            <p>Alſo that there was a great quantity of Bees Wax in the Ship, it cannot be imagined for what, unleſſe it were to make tapers for the Maſſe Prieſts, but I truſt in God it will now bee diſpoſed of to a better uſe.</p>
+            <div type="part">
+               <head>A wonderfull preſervation.</head>
+               <p>MAſter <hi>Patricke Oneale,</hi> Servant to Sir <hi>William Clotwerthy,</hi> being the firſt diſcoverer of that diveliſh Plot of I reaſon by the Rebels in <hi>Ireland,</hi> com<g ref="char:EOLhyphen"/>ming from thence, being well rewarded for his good Service; repayred into <hi>England,</hi> where in <hi>London</hi> he hath ſince lodged, at the
+<pb n="3" facs="tcp:64223:3"/>ſigne of the <hi>George,</hi> neere <hi>Barnerds Jnne,</hi> in <hi>Holborne,</hi> and is now made a Captaine, and to goe in the Iriſh Fxpedition, in the interim he entertained into his Service an Iriſh Youth, who fained himſelfe to be a Barber, which Youth was ſoone inveigled by ſome Popiſh Prieſts heere in towne, to murther his ſayd Maſter, for which he ſhould be pardo<g ref="char:EOLhyphen"/>ned by the Pope their holy Father, the young man was ſoone drawne on to act miſ<g ref="char:EOLhyphen"/>cheife, in regard as the Prieſt; told him it was a meritorious Act to make him away, who was the hinderer of that great deſigne that was to be effected in <hi>Ireland,</hi> he was al<g ref="char:EOLhyphen"/>ſo perſwaded to make away Sir <hi>Iohn Clotworthy,</hi> by ſtrewing poyſon on his meat, the day was prefixed for the acting of this helliſh, and diabolicall Act, but marke the hand of God in the timely preventing thereof, for this Boy went to a Countrywoman of his, a Maid Ser<g ref="char:EOLhyphen"/>vant in <hi>Drewry Lane,</hi> to whom hee tould his full mind and intent, thinking ſhee had beene a Romiſh Catholique, but ſhee was other<g ref="char:EOLhyphen"/>waies, and declared the truth to her Miſtris, how he ſhould have done it, and fained him<g ref="char:EOLhyphen"/>ſelfe to be drunke, all which was timely diſ<g ref="char:EOLhyphen"/>covered to the Gentleman, and the Boy now lyes in Newgate, to anſwer for it at the Seſſions.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:64223:4"/>
+               <head>A Wonderfull Accident.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Bout a quarter of a myle from the Bridge at <hi>Mayden-head,</hi> up<g ref="char:EOLhyphen"/>on the right hand, on the ſide of a Hill was an ancient Houſe ſtanding among a Thicket of Trees, which houſe hath of a long time beene inhabited by Papiſts, and a great ſhelter for Prieſts and Seminaries, who have there con<g ref="char:EOLhyphen"/>tinually lurked, and now of late the Jnhabi<g ref="char:EOLhyphen"/>tant of the ſaid Houſe being a great Papiſt, did procure a place to be made under the Hill and Houſe, by digging many large Vaults and Sellers, wherein he did ſtore many Horſes, Armes, Ammunition, Powder and Shot, with the like Engines of Warre, for what uſe may be eaſily conjectured, in regard of the ill ſucceſſe by many ſuch Helliſh Plots and Practiſes, which had not God prevented might have fallen upon us, but our God, which never faileth his that truſt in him, can and will in his good time bring all their imagina<g ref="char:EOLhyphen"/>tions to nought, for while they were lately ex<g ref="char:EOLhyphen"/>traordinarily imployed in their Diveliſh un<g ref="char:EOLhyphen"/>dermining Plots, and diſpoſing of the Gun<g ref="char:EOLhyphen"/>powder in theſe Cells, the hand of God brought all to confuſion, both Man, Wo<g ref="char:EOLhyphen"/>men, Children, Beaſts and all, one with an<g ref="char:EOLhyphen"/>other, for by the Powder taking fire all was
+<pb n="5" facs="tcp:64223:4"/>blowne up into the Ayre, where now is no<g ref="char:EOLhyphen"/>thing left but a dreadfull Spectacle of ſo mi<g ref="char:EOLhyphen"/>ſerable a Confuſion.</p>
+               <p>The truth of this was fully confirmed by a ſufficient honeſt man, the Clarke of the Pa<g ref="char:EOLhyphen"/>riſh of <hi>White Waltham</hi> neere adjoyning, who was an eye witneſſe thereof.</p>
+            </div>
+            <div type="part">
+               <head>A ſtrange Birth.</head>
+               <p>THat there have beene many ſtrange and prodigious Births, brought forth from time, to time, yet in theſe latter Ages, none more monſtrous and wonderfull, then this which was lately produced from the body of one Miſtreſſe <hi>Hide</hi> neere <hi>Fullers Rents</hi> in high <hi>Holborne,</hi> in the Pariſh of St. <hi>Andrewes,</hi> it was a Male Child, borne dead, having a Seame dented from the crowne of the head, to the bottome of his fore-head inſtead of the eyes, the appearance of two blathers of blood, and which was moſt won<g ref="char:EOLhyphen"/>derfull, it had a double row of Teeth in ei<g ref="char:EOLhyphen"/>ther Jaw, both above and below, the Gumes ſtanding as full as they could hold,' which bred a great aſtoniſhment, and much amaze<g ref="char:EOLhyphen"/>ment to all beholders.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
